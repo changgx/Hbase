@@ -16,7 +16,7 @@ import java.io.IOException;
  * Created by liu on 2016/4/13.
  */
 
-public class HbaseDemo {
+public class HbaseCRUD {
     public static void main(String[] args) throws IOException {
 //        createTable();
 //        putTable();
