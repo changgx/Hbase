@@ -36,5 +36,17 @@
             <artifactId>hadoop-common</artifactId>
             <version>${hadoop.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.phoenix</groupId>
+            <artifactId>phoenix-core</artifactId>
+            <version>4.5.0-HBase-1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.phoenix</groupId>
+            <artifactId>phoenix-server-client</artifactId>
+            <version>4.5.0-HBase-1.0</version>
+        </dependency>
+
     </dependencies>
 </project>
